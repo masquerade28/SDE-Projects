@@ -31,7 +31,7 @@ class HabitTrackerApp:
 
         welcome_label = tk.Label(
             self.welcome_frame,
-            text="21 Days Challenge\nGet ready to build positive habits.\n\n",
+            text="21 Days Challenge\nBuild Positive Habits.\n\n",
             font=("Comic Sans MS", 18),
             pady=60,
             padx=30,
